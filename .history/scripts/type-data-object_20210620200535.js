@@ -1,0 +1,8 @@
+const person = {};
+
+// Change Data Object
+
+person["name"] = "Dewa Gede Agung";
+person["alamat"] = "Bali";
+person["umur"] = "24 Tahun";
+
